@@ -1,7 +1,6 @@
 using System;
 using Cereals;
 
-
 namespace Ch9Ex6RiceKrispies
 {
     class Breakfast
@@ -15,3 +14,4 @@ namespace Ch9Ex6RiceKrispies
             Console.WriteLine();
         }
     }
+}
